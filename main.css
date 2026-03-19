@@ -54,7 +54,7 @@ border:none;
 border-radius:8px;
 cursor:pointer;
 color:white;
-background: linear-gradient(90deg, #5f9cff, #7b5cff);
+background: linear-gradient(90deg, #ff5f62, #f8de20);
 transition:all 0.2s ease;
 }
 
@@ -72,6 +72,6 @@ box-shadow:0 3px 8px rgba(0,0,0,0.1);
 
 
 #choices button:only-child{
-background: linear-gradient(90deg, #00b894, #00cec9);
+background: linear-gradient(90deg, #b8000c, #ceb300);
 font-weight:bold;
 }
